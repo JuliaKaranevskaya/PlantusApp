@@ -11,6 +11,19 @@
 		C163FDDF2636F4BE0022E299 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FDDE2636F4BE0022E299 /* ContentView.swift */; };
 		C163FDE12636F4C00022E299 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C163FDE02636F4C00022E299 /* Assets.xcassets */; };
 		C163FDE42636F4C00022E299 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C163FDE32636F4C00022E299 /* Preview Assets.xcassets */; };
+		C163FDF12636F5830022E299 /* PlantData.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FDF02636F5830022E299 /* PlantData.swift */; };
+		C163FDF52636F5CA0022E299 /* PlantModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FDF42636F5CA0022E299 /* PlantModel.swift */; };
+		C163FDF82636F6030022E299 /* PlantCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FDF72636F6030022E299 /* PlantCardView.swift */; };
+		C163FDFB2636F62E0022E299 /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FDFA2636F62E0022E299 /* StartButtonView.swift */; };
+		C163FDFE2636F6510022E299 /* PlantRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FDFD2636F6510022E299 /* PlantRowView.swift */; };
+		C163FE012636F6860022E299 /* PlantHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FE002636F6860022E299 /* PlantHeaderView.swift */; };
+		C163FE042636F6A60022E299 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FE032636F6A60022E299 /* SourceLinkView.swift */; };
+		C163FE072636F6C80022E299 /* PlantWateringView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FE062636F6C80022E299 /* PlantWateringView.swift */; };
+		C163FE0A2636F6FC0022E299 /* SettingsLabelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FE092636F6FC0022E299 /* SettingsLabelView.swift */; };
+		C163FE0D2636F7210022E299 /* SettingsRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FE0C2636F7210022E299 /* SettingsRowView.swift */; };
+		C163FE102636F7660022E299 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FE0F2636F7660022E299 /* OnboardingView.swift */; };
+		C163FE132636F7900022E299 /* PlantDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FE122636F7900022E299 /* PlantDetailView.swift */; };
+		C163FE172636F7C10022E299 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C163FE162636F7C10022E299 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +33,19 @@
 		C163FDE02636F4C00022E299 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C163FDE32636F4C00022E299 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C163FDE52636F4C00022E299 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C163FDF02636F5830022E299 /* PlantData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantData.swift; sourceTree = "<group>"; };
+		C163FDF42636F5CA0022E299 /* PlantModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantModel.swift; sourceTree = "<group>"; };
+		C163FDF72636F6030022E299 /* PlantCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantCardView.swift; sourceTree = "<group>"; };
+		C163FDFA2636F62E0022E299 /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		C163FDFD2636F6510022E299 /* PlantRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantRowView.swift; sourceTree = "<group>"; };
+		C163FE002636F6860022E299 /* PlantHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantHeaderView.swift; sourceTree = "<group>"; };
+		C163FE032636F6A60022E299 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		C163FE062636F6C80022E299 /* PlantWateringView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantWateringView.swift; sourceTree = "<group>"; };
+		C163FE092636F6FC0022E299 /* SettingsLabelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsLabelView.swift; sourceTree = "<group>"; };
+		C163FE0C2636F7210022E299 /* SettingsRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsRowView.swift; sourceTree = "<group>"; };
+		C163FE0F2636F7660022E299 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		C163FE122636F7900022E299 /* PlantDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantDetailView.swift; sourceTree = "<group>"; };
+		C163FE162636F7C10022E299 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +78,15 @@
 		C163FDDB2636F4BE0022E299 /* Plantus */ = {
 			isa = PBXGroup;
 			children = (
+				C163FDEC2636F4DA0022E299 /* Data */,
+				C163FDED2636F4E70022E299 /* Model */,
+				C163FDEE2636F4F00022E299 /* View */,
+				C163FDEF2636F4F90022E299 /* App */,
 				C163FDDC2636F4BE0022E299 /* PlantusApp.swift */,
 				C163FDDE2636F4BE0022E299 /* ContentView.swift */,
+				C163FE0F2636F7660022E299 /* OnboardingView.swift */,
+				C163FE122636F7900022E299 /* PlantDetailView.swift */,
+				C163FE162636F7C10022E299 /* SettingsView.swift */,
 				C163FDE02636F4C00022E299 /* Assets.xcassets */,
 				C163FDE52636F4C00022E299 /* Info.plist */,
 				C163FDE22636F4C00022E299 /* Preview Content */,
@@ -67,6 +100,44 @@
 				C163FDE32636F4C00022E299 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C163FDEC2636F4DA0022E299 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				C163FDF02636F5830022E299 /* PlantData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		C163FDED2636F4E70022E299 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				C163FDF42636F5CA0022E299 /* PlantModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		C163FDEE2636F4F00022E299 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				C163FDF72636F6030022E299 /* PlantCardView.swift */,
+				C163FDFA2636F62E0022E299 /* StartButtonView.swift */,
+				C163FDFD2636F6510022E299 /* PlantRowView.swift */,
+				C163FE002636F6860022E299 /* PlantHeaderView.swift */,
+				C163FE032636F6A60022E299 /* SourceLinkView.swift */,
+				C163FE062636F6C80022E299 /* PlantWateringView.swift */,
+				C163FE092636F6FC0022E299 /* SettingsLabelView.swift */,
+				C163FE0C2636F7210022E299 /* SettingsRowView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		C163FDEF2636F4F90022E299 /* App */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,8 +209,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C163FE172636F7C10022E299 /* SettingsView.swift in Sources */,
+				C163FE042636F6A60022E299 /* SourceLinkView.swift in Sources */,
+				C163FE072636F6C80022E299 /* PlantWateringView.swift in Sources */,
+				C163FDF12636F5830022E299 /* PlantData.swift in Sources */,
+				C163FDF82636F6030022E299 /* PlantCardView.swift in Sources */,
 				C163FDDF2636F4BE0022E299 /* ContentView.swift in Sources */,
+				C163FE132636F7900022E299 /* PlantDetailView.swift in Sources */,
+				C163FE012636F6860022E299 /* PlantHeaderView.swift in Sources */,
+				C163FDFB2636F62E0022E299 /* StartButtonView.swift in Sources */,
 				C163FDDD2636F4BE0022E299 /* PlantusApp.swift in Sources */,
+				C163FE0D2636F7210022E299 /* SettingsRowView.swift in Sources */,
+				C163FDFE2636F6510022E299 /* PlantRowView.swift in Sources */,
+				C163FE0A2636F6FC0022E299 /* SettingsLabelView.swift in Sources */,
+				C163FE102636F7660022E299 /* OnboardingView.swift in Sources */,
+				C163FDF52636F5CA0022E299 /* PlantModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
